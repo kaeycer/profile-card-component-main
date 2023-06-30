@@ -121,7 +121,7 @@ hr{
     .container{
         display: flex;
         flex-direction: column;
-        margin: 10vh auto;
+        margin: 5vh auto;
         border: 1px solid hsl(185, 75%, 39%);
         height: auto;
         width: fit-content;
