@@ -158,4 +158,8 @@ hr{
         top: -50%;
         right: 80%;
     }
+
+    .attribution{
+        margin-top: -5vh;
+    }
 }
